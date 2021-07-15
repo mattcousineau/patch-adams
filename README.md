@@ -14,3 +14,7 @@ top_level_folder   <-- drop patch-adams here
 ```
 - Drop patch-adams in the top-level folder and run
 - patch-adams will create a patchfile.txt with file checksums which can then be hosted for **patches-ohoulihan** to point to in config.properties patchfileurl
+
+**TODO**
+- need to find a faster way to generate the hash for large files - the current way is too long for any reasonable person to want to wait.  
+

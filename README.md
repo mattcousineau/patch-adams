@@ -15,3 +15,4 @@ top_level_folder   <-- drop patch-adams here
 - Compile and drop patchadams.jar in the top-level folder and run
 - patch-adams will create a patchfile.txt with file checksums which can then be hosted for **patches-ohoulihan** to point to in config.properties patchfileurl 
 
+I borrowed the 'Fast MD5' implementation from http://www.twmacinta.com/myjava/fast_md5.php .
